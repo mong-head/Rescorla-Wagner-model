@@ -1,6 +1,6 @@
 # Rescorla-Wagner-model
 
-* desc : 학습심리학 과목을 들으며 RW model에 대하여 해당 이슈에 대한 그래프 그려보기
+* desc : 학습심리학 과목을 들으며 RW model에 대하여 해당 이슈에 대한 그래프 그려보기 (2020.10)
 * 사용 프로그램 및 기술
   * python
   * Colab(주피터 노트북)
