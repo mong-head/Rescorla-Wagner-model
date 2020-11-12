@@ -8,6 +8,7 @@
 * 참고 논문 : [RW model의 성공한 모델과 실패한 모델](https://github.com/mong-head/Rescorla-Wagner-model/blob/master/documents/miller-1995-advanced%20questions.pdf)
 * 과제 설명 : [과제 설명](https://github.com/mong-head/Rescorla-Wagner-model/blob/master/documents/%EA%B3%BC%EC%A0%9C%EC%84%A4%EB%AA%85_R-W%20model%20assignment%202020.pdf)
 * 개인 보고서 : [그래프와 그에 대한 개인적인 생각](https://github.com/mong-head/Rescorla-Wagner-model/blob/master/documents/R-W%20model_graphs_and_my_descriptions.pdf)
+* 코드 : [RW model-mine](https://github.com/mong-head/Rescorla-Wagner-model/blob/master/rescorla_wagner_model.ipynb)
 
 ## 결과
 
